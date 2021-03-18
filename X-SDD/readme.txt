@@ -1,0 +1,2 @@
+ The dataset's full name is Xsteel surface defect dataset. It contains seven types of 1,360 defect images, including 238 slag inclusions, 397 red iron sheet, 122 iron sheet ash, 134 surface scratches, 63 oxide scale of plate system, 203 finishing roll printing and 203 oxide scale of temperature system.
+ This dataset can be used for the classification of surface defects in hot rolled steel strips.
